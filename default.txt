@@ -1,0 +1,6 @@
+<VirtualHost *:80>
+    DocumentRoot "/Users/terrymorgan/Sites/xxxx"
+    ServerName xxxx.localhost
+    ErrorLog "/private/var/log/apache2/xxxx.localhost-error_log"
+    CustomLog "/private/var/log/apache2/xxxx.localhost-access_log" common
+</VirtualHost>

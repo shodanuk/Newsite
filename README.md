@@ -13,7 +13,9 @@ Move (or symlink) newsite.sh and default.txt to /usr/bin (or somewhere appropria
 
 Then run:
 
+```
 sudo newsite.sh sitename
+```
 
 That will create:
 

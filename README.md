@@ -10,7 +10,7 @@ Sets up a new site on Mac OSx Snow Leopard.
 ## Usage
 
 1. Update all config options at the top of newsite.sh to suit your system and requirements
-2. Move (or symlink) newsite.sh and default.txt to /usr/bin (or somewhere appropriate)
+2. Move (or symlink) newsite.sh to /usr/bin (or somewhere appropriate)
 3. Then run:
 ```
 sudo newsite.sh sitename
